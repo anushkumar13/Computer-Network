@@ -90,4 +90,11 @@ If you find any mistakes or have suggestions for enhancing the notes, your contr
 
 ---
 
+## Timeline
+
+**Start Date:** 17 May 2025  
+**End Date:** 20 May 2025
+
+---
+
 Thanks for visiting — Happy Networking! 😄
