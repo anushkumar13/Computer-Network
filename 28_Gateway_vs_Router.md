@@ -2,7 +2,7 @@
 
 Understanding basic networking terms like NIC, IP Address, MAC, and ARP is essential for smooth network operation. Until you grasp these basics, you will find it difficult to understand advanced networking concepts.
 
-## 1. What is NIC (Network Interface Card)?
+## 1. What is NIC (Network Interface Card) ?
 
 A **Network Interface Card (NIC)** is a hardware device that connects your computer or any device to a network. It physically links your device to the network, such as connecting your computer to an internet router or a local network.
 
