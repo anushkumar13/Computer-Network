@@ -67,19 +67,19 @@ These notes are intended not only for me but also for anyone looking for clear, 
 
 ---
 
+## Timeline
+
+**Start Date:** 17 May 2025  
+**End Date:** 20 May 2025
+
+---
+
 ## How to Use This Repository
 
 - Browse through the list of topics above.  
 - Click on any topic to explore detailed notes with examples, visuals, and clear explanations.  
 - Use this repository as a personal guide for revision, interviews, or simply to strengthen your foundational knowledge in Computer Networks.  
 - If you're new to networks, it's recommended to start with the **Introduction** and follow along in order.
-
----
-
-## Support
-
-If you find this repository helpful,  
-**please consider giving it a ⭐ star — it motivates me to keep learning, improving, and sharing more content like this!**
 
 ---
 
@@ -90,10 +90,18 @@ If you find any mistakes or have suggestions for enhancing the notes, your contr
 
 ---
 
-## Timeline
+## Support
 
-**Start Date:** 17 May 2025  
-**End Date:** 20 May 2025
+If you find this repository helpful,  
+**please consider giving it a ⭐ star — it motivates me to keep learning, improving, and sharing more content like this!**
+
+---
+
+##  Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anush-kumar-mall)  
+- 📸 [Instagram](https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0)  
+- ✉️ Email: mallanushkumar@gmail.com
 
 ---
 
